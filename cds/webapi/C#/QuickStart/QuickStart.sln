@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31702.278
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickStart-ADAL", "QuickStart\QuickStart-ADAL.csproj", "{1F837844-46A1-43DC-9581-0A84A2FAA7B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataVerse-ADAL", "QuickStart\DataVerse-ADAL.csproj", "{1F837844-46A1-43DC-9581-0A84A2FAA7B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickStart-MSAL", "QuickStartMSAL\QuickStart-MSAL.csproj", "{C1E9CBE5-7BD4-4393-ACD9-97F62FEE8672}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataVerse-MSAL", "QuickStartMSAL\DataVerse-MSAL.csproj", "{C1E9CBE5-7BD4-4393-ACD9-97F62FEE8672}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

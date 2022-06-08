@@ -8,7 +8,7 @@ using Flurl;
 using Flurl.Http;
 using Newtonsoft.Json;
 
-namespace PowerApps.Samples
+namespace DataVerse
 {
     class Program
     {
@@ -87,6 +87,7 @@ namespace PowerApps.Samples
                 Guid userId = (Guid)body["UserId"];
 
                 Console.WriteLine("Your user ID is {0}", userId);
+                Console.WriteLine("Now let's get some data!");
             }
             else
             {
